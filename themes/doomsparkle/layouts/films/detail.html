@@ -7,8 +7,8 @@
     </div>
     <ul class="credits">
         {{ range .Params.credits }}
-        <li><a href="{{ .link }}" class="credit-name">{{ upper .name }}</a> -
-            <span class="credit-role">{{ lower .type }}</span></li>
+        <li><nobr><a href="{{ .link }}" class="credit-name">{{ upper .name }}</a> -
+            <span class="credit-role">{{ lower .type }}</span></nobr></li>
         {{ end }}
     </ul>
 </div>

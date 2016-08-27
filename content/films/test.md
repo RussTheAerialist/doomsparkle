@@ -8,12 +8,8 @@ embed_type = "vimeo"
 type = "writer"
 name = "Russell Hay"
 link = "http://russellhay.com"
-
-[[credits]]
-type = "director"
-name = "Amanda Gray"
-link = "http://something"
 +++
 
-Some Content Will Go here
+This is a test of a steadicam that I built.  It's not great, and will
+need to be redesigned.
 
