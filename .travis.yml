@@ -14,7 +14,7 @@ notifications:
     on_faliure: always
 before_install:
 - openssl aes-256-cbc -K $encrypted_62d72ab54bb9_key -iv $encrypted_62d72ab54bb9_iv
-  -in doomsparkle-deploy.enc -out ~\/.ssh/doomsparkle-deploy -d
+  -in doomsparkle-deploy.enc -out doomsparkle-deploy -d
 - gem install sass
 before_deploy:
 - eval "$(ssh-agent -s)"
