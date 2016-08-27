@@ -1,0 +1,27 @@
+.section-films {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: flex-start;
+  align-self: flex-start;
+}
+
+.film-section {
+  width: 30vw;
+  margin-right: 3vw;
+  margin-bottom: 3vw;
+
+  .film-list {
+    .film-header {
+      font-size: 3vh;
+      font-weight: bold;
+    }
+
+    .film-entry {
+      margin-bottom: 3vh;
+    }
+
+  }
+}

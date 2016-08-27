@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+<section class="member-section">
+    <header class="large-header"><h1> Doom Sparkle Members</h1></header>
+    <ul class="member-list">
+    {{ range .Params.member }}
+        <li class="member">
+        <a href="{{ .link }}" class="member-name">{{ upper .name }}</a>
+        <span class="member-type">{{ lower .type }}</span>
+        <span class="member-tenure">{{ if .endYear }}{{ .startYear }} to {{ .endYear }}{{else}}Joined {{ .startYear }}{{ end }}</span>
+        </li>
+    {{ end }}
+    </ul>
+</section>
+{{ partial "footer.html" . }}

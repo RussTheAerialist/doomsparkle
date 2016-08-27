@@ -1,0 +1,60 @@
+header {
+  width: 960px;
+  margin: auto;
+  padding: 2vh 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+
+  h1 {
+    font-size: 5vh;
+
+    & a {
+      color: $textColor;
+    }
+  }
+
+  ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+
+    li {
+
+      border-bottom: 3px solid $menuColor;
+      min-width: 5vw;
+      margin: 0 2vw;
+
+      &.active {
+        border-color: $menuActiveColor;
+
+        & a {
+          color: $menuActiveColor;
+          text-decoration: none;
+        }
+      }
+
+      &:last-of-type {
+        margin-right: 0;
+      }
+
+      &:first-of-type {
+        margin-left: 0;
+      }
+
+      a {
+        color: $menuColor;
+        text-decoration: none;
+      }
+
+      &:hover {
+        border-color: $menuHoverColor;
+
+        a {
+          color: $menuHoverColor;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+}

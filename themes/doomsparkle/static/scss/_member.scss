@@ -1,0 +1,29 @@
+.member-section {
+  align-self: flex-start;
+  flex-grow: 1;
+
+  .member-list {
+    display: flex;
+    flex-flow: column wrap;
+
+    .member {
+      line-height: 1.2em;
+      margin-bottom: 3vh;
+
+      .member-name {
+        display: block;
+        font-size: 1.5em;
+        line-height: 1.1em;
+      }
+
+      .member-tenure {
+        display: block;
+        color: lighten($backgroundColor, 25%);
+      }
+
+      .member-type {
+        display: block;
+      }
+    }
+  }
+}

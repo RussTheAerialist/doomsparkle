@@ -27,6 +27,23 @@ body {
   align-items: center;
   font-size: 100%; }
 
+#container {
+  flex-grow: 2;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-content: center;
+  margin: auto;
+  width: 960px; }
+
+.large-header h1 {
+  font-size: 10vh;
+  margin-bottom: 5vh; }
+
+p {
+  line-height: 1.3em;
+  margin-bottom: 2.5vh; }
+
 header {
   width: 960px;
   margin: auto;
@@ -61,16 +78,46 @@ header {
       header ul li:hover {
         border-color: #b9aa46; }
         header ul li:hover a {
-          color: #b9aa46; }
+          color: #b9aa46;
+          text-decoration: none; }
 
-#container {
-  flex-grow: 2;
+.section-films {
+  flex-grow: 1;
   display: flex;
-  flex-direction: column;
-  justify-content: space-around;
-  align-content: center;
-  margin: auto;
-  width: 960px; }
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: flex-start;
+  align-self: flex-start; }
+
+.film-section {
+  width: 30vw;
+  margin-right: 3vw;
+  margin-bottom: 3vw; }
+  .film-section .film-list .film-header {
+    font-size: 3vh;
+    font-weight: bold; }
+  .film-section .film-list .film-entry {
+    margin-bottom: 3vh; }
+
+.member-section {
+  align-self: flex-start;
+  flex-grow: 1; }
+  .member-section .member-list {
+    display: flex;
+    flex-flow: column wrap; }
+    .member-section .member-list .member {
+      line-height: 1.2em;
+      margin-bottom: 3vh; }
+      .member-section .member-list .member .member-name {
+        display: block;
+        font-size: 1.5em;
+        line-height: 1.1em; }
+      .member-section .member-list .member .member-tenure {
+        display: block;
+        color: #615f51; }
+      .member-section .member-list .member .member-type {
+        display: block; }
 
 .video {
   position: relative;
