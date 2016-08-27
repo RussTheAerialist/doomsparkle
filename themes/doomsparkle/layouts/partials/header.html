@@ -20,12 +20,12 @@
           content="{{ if .IsHome }}A small film collective that produces 3 minute shorts on a regular basis{{ else }}{{ end }}">
 <body>
 <header>
-    <h1 class="title">Doom Sparkle</h1>
+    <h1 class="title"><a href="/">Doom Sparkle</a></h1>
     <ul class="mainMenu">
         {{ $currentNode := . }}
         {{ range .Site.Menus.main }}
-            <li class="menu {{ if $currentNode.IsMenuCurrent "main" . }} active{{ end }}">
-                <a href="{{ .URL }}">{{ .Name }}</a>
+            <li class="menu{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} active{{ end }}">
+                <a href="{{ .URL }}">{{ lower .Name }}</a>
             </li>
         {{ end }}
     </ul>

@@ -1,6 +1,7 @@
 {{ partial "header.html" . }}
-Index:
-<div>{{ printf "%#v" . }}</div>
-<div>&nbsp;</div>
-<div>{{ printf "%#v" $.Site }}</div>
+{{ $paginator := .Paginate (where .Data.Pages "Type" "films") }}
+{{ template "_internal/pagination.html" . }}
+{{ range $paginator.Pages }}
+{{ .Render "detail" }}
+{{ end }}
 {{ partial "footer.html" . }}

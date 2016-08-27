@@ -2,14 +2,18 @@ baseurl = "http://doomsparkle.com/"
 languageCode = "en-us"
 title = "Doom Sparkle"
 theme = "doomsparkle"
-
-[[menu.main]]
-    name = "films"
-    identifier = "films"
-    url = "/films/"
+SectionPagesMenu = "main"
+Paginate = 1
+PaginatePath = "p"
 
 [[menu.main]]
     name = "members"
     identifier = "members"
     url = "/members/"
+    "weight" = 95
 
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    url = "/about/"
+    "weight" = 100

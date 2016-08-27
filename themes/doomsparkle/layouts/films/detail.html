@@ -1,4 +1,3 @@
-{{ partial "header.html" . }}
 {{ if eq .Params.embed_type "vimeo" }}
 {{ partial "vimeo.html" .Params }}
 {{ end }}
@@ -8,9 +7,8 @@
     </div>
     <ul class="credits">
         {{ range .Params.credits }}
-            <li><a href="{{ .link }}">{{ .name }}</a> - {{ .type }}</li>
+        <li><a href="{{ .link }}" class="credit-name">{{ upper .name }}</a> -
+            <span class="credit-role">{{ lower .type }}</span></li>
         {{ end }}
     </ul>
 </div>
-
-{{ partial "footer.html" . }}
