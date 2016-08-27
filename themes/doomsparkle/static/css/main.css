@@ -1,0 +1,81 @@
+* {
+  box-sizing: border-box; }
+
+html, body, h1, h2, h3, h4, h5, h6, div, p, ul, li, blockquote {
+  display: block;
+  margin: 0;
+  padding: 0;
+  font-size: 100%; }
+
+html, body {
+  min-height: 100vh; }
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 100%; }
+
+header {
+  width: 960px;
+  margin: auto;
+  padding: 2vh 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline; }
+  header h1 {
+    font-size: 3vh; }
+  header ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline; }
+    header ul li {
+      border-bottom: 3px solid #990000;
+      min-width: 5vw;
+      margin: 0 2vw; }
+      header ul li:last-of-type {
+        margin-right: 0; }
+      header ul li:first-of-type {
+        margin-left: 0; }
+      header ul li a {
+        color: #990000;
+        text-decoration: none; }
+      header ul li:hover {
+        border-color: #ff0000; }
+        header ul li:hover a {
+          color: #ff0000; }
+
+#container {
+  flex-grow: 2;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-content: center;
+  margin: auto;
+  width: 960px; }
+
+.video {
+  position: relative;
+  padding-bottom: 56.25%;
+  /* 16:9 */
+  padding-top: 25px;
+  /* ?? */
+  height: 0; }
+
+.video iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
+
+.description {
+  width: 960px;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: space-between; }
+
+/*# sourceMappingURL=main.css.map */

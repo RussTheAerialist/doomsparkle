@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+{{ if eq .Params.embed_type "vimeo" }}
+{{ partial "vimeo.html" .Params }}
+{{ end }}
+<div class="description">
+    <div class="summary">
+        {{ .Content }}
+    </div>
+    <ul class="credits">
+        {{ range .Params.credits }}
+            <li><a href="{{ .link }}">{{ .name }}</a> - {{ .type }}</li>
+        {{ end }}
+    </ul>
+</div>
+
+{{ partial "footer.html" . }}

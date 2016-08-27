@@ -1,0 +1,15 @@
+baseurl = "http://doomsparkle.com/"
+languageCode = "en-us"
+title = "Doom Sparkle"
+theme = "doomsparkle"
+
+[[menu.main]]
+    name = "films"
+    identifier = "films"
+    url = "/films/"
+
+[[menu.main]]
+    name = "members"
+    identifier = "members"
+    url = "/members/"
+
