@@ -5,7 +5,7 @@ $color2: mix($baseColor2, $baseColor1, 5%);
 
 $backgroundColor: darken(mix($color1, $color2, 45%), 40%);
 $textColor: lighten(mix($color1, $color2, 55%), 40%);
-$menuColor: mix($color2, $color1, 25%);
+$menuColor: lighten(mix($color2, $color1, 25%), 25%);
 $menuHoverColor: mix($color1, $color2, 25%);
 $menuActiveColor: mix($color1, $color2, 15%);
 
