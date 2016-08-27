@@ -5,6 +5,7 @@ theme = "doomsparkle"
 SectionPagesMenu = "main"
 Paginate = 1
 PaginatePath = "p"
+googleAnalytics = "UA-514101-29"
 
 [[menu.main]]
     name = "members"
