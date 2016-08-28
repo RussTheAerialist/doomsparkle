@@ -3,11 +3,16 @@
     <header class="large-header"><h1> Doom Sparkle Members</h1></header>
     <ul class="member-list">
     {{ range .Params.member }}
+        {{ if not .hidden }}
         <li class="member">
-        <a href="{{ .link }}" class="member-name">{{ upper .name }}</a>
+        <span class="member-name">{{ upper .name }}
+            {{ if .link }}<a href="{{ .link }}" class="member-link">[website]</a>{{ end }}
+            {{ if .twitter }}<a href="http://twitter.com/{{.twitter}}" class="member-link">[twitter]</a>{{ end }}
+        </span>
         <span class="member-type">{{ lower .type }}</span>
         <span class="member-tenure">{{ if .endYear }}{{ .startYear }} to {{ .endYear }}{{else}}Joined {{ .startYear }}{{ end }}</span>
         </li>
+        {{ end }}
     {{ end }}
     </ul>
 </section>
