@@ -1,6 +1,6 @@
 +++
 date = "2016-08-27T07:35:18-07:00"
-title = "test"
+title = "steadicam test"
 embed_id = "98869785"
 embed_type = "vimeo"
 
