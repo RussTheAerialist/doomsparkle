@@ -5,7 +5,6 @@ embed_id = "98869785"
 embed_type = "vimeo"
 
 [[credits]]
-type = "writer"
 name = "Russell Hay"
 link = "http://russellhay.com"
 +++
