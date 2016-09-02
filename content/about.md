@@ -4,7 +4,7 @@ title = "About Doom Sparkle"
 Doom Sparkle is a small collective of filmmakers who produce short
 (3-5 minute) films on a regular basis in the Seattle Metro Area.
  
-We formed in large 2016 as an excuse to shut up and start making films.
+We formed in late 2016 as an excuse to shut up and start making films.
 In December of 2016, we will be making a film every week as our first project.
 
 If you are in the Seattle area and are interested in joining the collective,
