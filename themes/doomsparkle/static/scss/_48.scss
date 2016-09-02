@@ -1,0 +1,15 @@
+.fourtyeight {
+  a {
+    color: $backgroundColor;
+    background-color: $menuHoverColor;
+    padding: 0 0.5em;
+  }
+  h2 {
+    color: $menuColor;
+    margin-top: 3rem;
+  }
+
+  strong {
+    color: $menuActiveColor;
+  }
+}

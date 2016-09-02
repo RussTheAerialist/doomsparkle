@@ -1,4 +1,7 @@
 </div>
+{{ if eq .Params.pageclass "fourtyeight" }}
+<script src="/js/obf.js"></script>
+{{ end }}
 {{ template "_internal/google_analytics_async.html" . }}
 </body>
 </html>

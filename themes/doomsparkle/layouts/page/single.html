@@ -1,5 +1,5 @@
 {{ partial "header.html" . }}
-<article class="page">
+<article class="page{{ if .Params.pageclass }} {{ .Params.pageclass }}{{end}}">
     <header class="large-header"><h1>{{ .Title }}</h1></header>
     <div class="page-body">
         {{ .Content }}
