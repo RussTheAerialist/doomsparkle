@@ -4,7 +4,7 @@ pageClass = "fourtyeight"
 +++
 If you are looking for a 48 hour film project team, we are in need of some roles.  You can contact us at
 <a id="fourtyeight-id">2u333936383d2t2x2v2w381s2s33333137342p362z302t1a2r3331</a>.  If you do, please let us know which position
-you are interested in, and if you have a demo reel, send a link on (not necessary, but nice to have).
+you are interested in, and if you have a demo reel, send a link along with your email.
 
 ## Who we need
 
@@ -19,7 +19,7 @@ of the DIT also.
 audio, and prep the final mix of the dialogue tracks and any environment tracks
 necessary.
 
-**Makeup Artist**: It is a horror film, so makeup may be critical.  We'd love to
+**Makeup Artist**: It is a horror film, so makeup is crucial.  We'd love to
  have someone with SFX makeup experience, who can work fast, and can be part of the
  idea generation process to tell us what is and isn't feasible.
 
@@ -30,13 +30,13 @@ try not to take themselves too seriously, but still work hard and try to
 deliver a good film.
 
 **Director/Producer**: Russell Hay - first-time director, and has experience as DP
- on two other 48 hour film project teams
+ on two other 48 hour film project teams.
 
 **Director of Photography/Producer/Writer**: Amanda Gray - first-time Cinematographer and
  has experience as director on her own short film this year.
  
 **Location Sound/Producer/Writer**: Jim Bracher - Experienced filmmaker across many different
-roles, veteran 48 hour film project filmmaker
+roles, veteran 48 hour film project filmmaker.
 
 **Composer**: Crystal Jack - Electronica artist who we've worked with quite a bit in the
 past on both film and non-film projects.
