@@ -37,10 +37,12 @@ type = "Actor"
 name = "Justin Alley"
 bio = ""
 +++
-We're building a team for the Seattle 48 Hour Film Horror Project on October 7-9. See the list of open positions below.  Make sure to include a link to your reel/portfolio.
+We're building a team for the Seattle 48 Hour Film Horror Project on
+October 7-9. See the list of open positions below.
 
 You can contact us at
-<a id="fourtyeight-id">2u333936383d2t2x2v2w381s2s33333137342p362z302t1a2r3331</a>.  
+<a id="fourtyeight-id">2u333936383d2t2x2v2w381s2s33333137342p362z302t1a2r3331</a>. 
+Make sure to include a link to your reel/portfolio.
 
 ## Who we need
 
@@ -54,7 +56,7 @@ You can contact us at
 
 ## Who we are
 
-We are a mixture of independent filmmakers in various stages of our
+We are a mix of independent filmmakers in various stages of our
 development. We believe in learning by doing, and having fun while doing
 it.  We want to see how much we can do with a small screw, and spending
 our budget mostly on food.
