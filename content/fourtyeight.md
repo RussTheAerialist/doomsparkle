@@ -48,7 +48,7 @@ You can contact us at
 
 **Sound Designer**: Help our film sound awesome!
 
-**Makeup Artist**: Help our actors looks beautifully scary.
+**Makeup Artist**: Help our actors look beautifully scary.
  
 **Actors**: Help bring our story to life.
 
