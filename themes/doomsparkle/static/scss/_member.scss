@@ -4,11 +4,13 @@
 
   .member-list {
     display: flex;
-    flex-flow: column wrap;
+    flex-flow: row wrap;
 
     .member {
       line-height: 1.2em;
       margin-bottom: 3vh;
+      width: 27em;
+      margin-right: 3vw;
 
       .member-link {
         line-height: 1.1em;

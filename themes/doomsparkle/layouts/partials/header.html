@@ -21,6 +21,7 @@
 <body>
 <header>
     <h1 class="title"><a href="/">Doom Sparkle</a></h1>
+    {{ if ne .Params.nonav true }}
     <ul class="mainMenu">
         {{ $currentNode := . }}
         {{ range .Site.Menus.main }}
@@ -29,5 +30,6 @@
             </li>
         {{ end }}
     </ul>
+    {{ end }}
 </header>
 <div id="container">

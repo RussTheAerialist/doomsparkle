@@ -1,0 +1,17 @@
+{{ partial "header.html" . }}
+<section class="member-section fourtyeight">
+    {{ .Content }}
+    <ul class="member-list">
+        {{ range sort .Params.member "name" }}
+        {{ if not .hidden }}
+        <li class="member">
+        <span class="member-name">{{ upper .name }}</span>
+            <span class="member-type">{{ lower .type }}</span>
+            <span class="member-tenure">{{ .bio }}</span>
+        </li>
+        {{ end }}
+        {{ end }}
+    </ul>
+</section>
+<script src="/js/obf.js"></script>
+{{ partial "footer.html" . }}

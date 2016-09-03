@@ -1,6 +1,41 @@
 +++
-title = "Join our 48hfhp team!"
-pageClass = "fourtyeight"
+title = "Join Our 48hfhp Team!"
+nonav = true
+type = "fourtyeight"
+[[member]]
+name = "Russell Hay"
+type = "Director/Producer"
+bio = "First-time director, and has experience as DP on two other 48 hour film project teams."
+
+[[member]]
+name = "Amanda Gray"
+type = "Director of Photography/Producer/Writer"
+bio = "First-time Cinematographer and has experience as director on her own short film this year."
+
+[[member]]
+name = "Jim Bracher"
+type = "Location Sound/Producer/Writer"
+bio = "Documentary Filmmaker, 48hfp & 48hfhp veteran.  Has not done every crew position yet but working on that."
+
+[[member]]
+type = "Assistant Director"
+name = "Brian Kennedy"
+bio = ""
+
+[[member]]
+type = "Composer"
+name = "Crystal Jack"
+bio = "Electronica artist who we've worked with quite a bit in the past on both film and non-film projects."
+
+[[member]]
+type = "Production Assistant"
+name = "John Dobrosielski"
+bio = ""
+
+[[member]]
+type = "Actor"
+name = "Justin Alley"
+bio = ""
 +++
 We're building a team for the Seattle 48 Hour Film Horror Project on October 7-9. See the list of open positions below.  Make sure to include a link to your reel/portfolio.
 
@@ -9,33 +44,17 @@ You can contact us at
 
 ## Who we need
 
-**Editor**: Responsible for assembling the rough and final cuts, working
-with composer, sound designer, and director to realize the film.  We would
-love to have an experienced editor if possible.  Probably will do the job
-of the DIT also.
+**Editor**: Help our film be powerful!
 
-**Sound Designer**: Work on the non-music side of things, clean the location
-audio, and prep the final mix of the dialogue tracks and any environment tracks
-necessary.
+**Sound Designer**: Help our film sound awesome!
 
-**Makeup Artist**: It is a horror film, so makeup is crucial.  We'd love to have one MUA for SFX makeup and
-one for more traditional makeup work.
+**Makeup Artist**: Help our actors looks beautifully scary.
  
- **Actors**: Film actors of various levels.  We are looking for 2-3 more actors.
+**Actors**: Help bring our story to life.
 
 ## Who we are
 
-We are a mixure of experienced and inexperienced filmmakers who
-try not to take themselves too seriously, but still work hard and try to
-deliver a good film.
-
-**Director/Producer**: Russell Hay - first-time director, and has experience as DP
- on two other 48 hour film project teams.
-
-**Director of Photography/Producer/Writer**: Amanda Gray - first-time Cinematographer and
- has experience as director on her own short film this year.
- 
-**Location Sound/Producer/Writer**: Jim Bracher - Documentary Filmmaker, 48hfp & 48hfhp veteran.  Has not done every crew position yet but working on that.
-
-**Composer**: Crystal Jack - Electronica artist who we've worked with quite a bit in the
-past on both film and non-film projects.
+We are a mixture of independent filmmakers in various stages of our
+development. We believe in learning by doing, and having fun while doing
+it.  We want to see how much we can do with a small screw, and spending
+our budget mostly on food.
