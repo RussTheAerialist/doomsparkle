@@ -58,5 +58,5 @@ Make sure to include a link to your reel/portfolio.
 
 We are a mix of independent filmmakers in various stages of our
 development. We believe in learning by doing, and having fun while doing
-it.  We want to see how much we can do with a small screw, and spending
+it.  We want to see how much we can do with a small crew, and spending
 our budget mostly on food.
