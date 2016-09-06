@@ -30,7 +30,7 @@ bio = "Electronica artist who we've worked with quite a bit in the past on both 
 [[member]]
 type = "Production Assistant"
 name = "John Dobrosielski"
-bio = ""
+bio = "Prior experience making short films for the SIFF 3MM competition (as actor/writer/cameraman/editor), along for the ride to continue learning and growing."
 
 [[member]]
 type = "Actor"
