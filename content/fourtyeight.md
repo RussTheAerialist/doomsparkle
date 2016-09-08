@@ -2,6 +2,10 @@
 title = "Join Our 48hfhp Team!"
 nonav = true
 type = "fourtyeight"
+aliases = [
+  "/fortyeight"
+]
+
 [[member]]
 name = "Russell Hay"
 type = "Director/Producer"
