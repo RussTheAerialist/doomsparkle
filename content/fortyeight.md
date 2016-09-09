@@ -40,12 +40,22 @@ bio = "Prior experience making short films for the SIFF 3MM competition (as acto
 type = "Actor"
 name = "Justin Alley"
 bio = ""
+
+[[member]]
+type = "SFX Make up Artist"
+name = "Kaitlin Krhounek"
+bio = ""
+
+[[member]]
+type = "Actor"
+name = "Joy Curtis"
+bio = ""
 +++
 We're building a team for the Seattle 48 Hour Film Horror Project on
 October 7-9. See the list of open positions below.
 
 You can contact us at
-<a id="fourtyeight-id">2u333936383d2t2x2v2w381s2s33333137342p362z302t1a2r3331</a>. 
+<a id="fourtyeight-id">2u3336383d2t2x2v2w381s2s33333137342p362z302t1a2r3331</a>. 
 Make sure to include a link to your reel/portfolio.
 
 ## Who we need
@@ -53,8 +63,6 @@ Make sure to include a link to your reel/portfolio.
 **Editor**: Help our film be powerful!
 
 **Sound Designer**: Help our film sound awesome!
-
-**Makeup Artist**: Help our actors look beautifully scary.
  
 **Actors**: Help bring our story to life.
 
