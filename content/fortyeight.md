@@ -24,7 +24,7 @@ bio = "Documentary Filmmaker, 48hfp & 48hfhp veteran.  Has not done every crew p
 [[member]]
 type = "Assistant Director"
 name = "Brian Kennedy"
-bio = "Participated in six 48HFPs (acted, produced, DIT, sound, PA) and many Crash Cinema projects as well.  Crash is 8 hours, 5 elements, 3 minutes max. So half a 48 in one sixth the time."
+bio = "Participated in six 48HFPs (acted, produced, DIT, sound, PA) and many Crash Cinema projects as well."
 
 [[member]]
 type = "Composer"

@@ -1,5 +1,6 @@
 {{ partial "header.html" . }}
 <section class="member-section fourtyeight">
+    <div id="countdown" data-date="2016-10-07" data-time="19:30"></div>
     {{ .Content }}
     <ul class="member-list">
         {{ range sort .Params.member "name" }}
