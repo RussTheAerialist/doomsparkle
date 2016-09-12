@@ -40,7 +40,11 @@
 
     var destination = new Date(targetDate[0], targetDate[1]-1 /* Javascript Months start at 0 */,
       targetDate[2], targetTime[0], targetTime[1]);
-    // destination.setTime(destination.getTime() - destination.getTimezoneOffset()*60*1000);
+
+    if (destination - Date.now() < 0) {
+      element.parentNode.removeChild(element);
+      return;
+    }
 
     window.setInterval(function() {
       var returnValue = [];
