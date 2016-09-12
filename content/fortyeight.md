@@ -64,7 +64,9 @@ Make sure to include a link to your reel/portfolio.
 
 **Sound Designer**: Help our film sound awesome!
  
-**Actors**: Help bring our story to life.
+**Actors**: Help bring our story to life!
+
+**Make Up Artist**: Help our actors look beautiful for the camera!
 
 ## Who we are
 
