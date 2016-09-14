@@ -1,13 +1,13 @@
 header {
   width: 960px;
   margin: auto;
-  padding: 2vh 0;
+  padding: 1rem 0;
   display: flex;
   justify-content: space-between;
   align-items: baseline;
 
   h1 {
-    font-size: 5vh;
+    font-size: 3rem;
 
     & a {
       color: $textColor;
