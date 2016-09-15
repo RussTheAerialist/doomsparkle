@@ -1,3 +1,7 @@
+.title {
+  max-height: 75px;
+}
+
 header {
   width: 960px;
   margin: auto;
@@ -9,7 +13,6 @@ header {
   h1 {
     font-size: 3rem;
     position: relative;
-    height: 75px;
 
     & > a {
       position: absolute;
