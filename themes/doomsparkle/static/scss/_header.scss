@@ -1,7 +1,11 @@
 body > header {
-  max-height: 75px;
+  height: 150px;
   overflow: hidden;
   margin-bottom: 1rem;
+  
+  h1 {
+    height: 75px;
+  }
 }
 
 header {
