@@ -50,6 +50,11 @@ bio = ""
 type = "Actor"
 name = "Joy Curtis"
 bio = ""
+
+[[member]]
+type = "Actor"
+name = "Mara Stevë"
+bio = ""
 +++
 We're building a team for the Seattle 48 Hour Film Horror Project on
 October 7-9. See the list of open positions below.
