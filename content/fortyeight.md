@@ -54,7 +54,7 @@ bio = ""
 [[member]]
 type = "Actor"
 name = "Mara Stevë"
-bio = ""
+bio = "Been in 6 48 Hour films: 4 regular and 2 horror. Also acts in films and on stage."
 +++
 We're building a team for the Seattle 48 Hour Film Horror Project on
 October 7-9. See the list of open positions below.
