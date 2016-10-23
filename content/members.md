@@ -6,7 +6,7 @@ type = "member"
 name = "Russell Hay"
 link = "http://russellhay.com/"
 twitter = "russellhay"
-type = "director, cinematographer"
+type = "cinematographer, director, writer"
 startYear = 2016
 
 [[member]]
@@ -18,9 +18,13 @@ startYear = 2016
 
 [[member]]
 name = "Amanda Gray"
-type = "writer"
+type = "writer, director, cinematographer"
 startYear = 2016
-hidden = true
+
+[[member]]
+name = "Sierra Swan"
+type = "Editor"
+startYear = 2016
 +++
 
 Content in this file will be ignored.  Data is pulled from frontmatter
