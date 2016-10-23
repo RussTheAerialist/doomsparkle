@@ -1,13 +1,14 @@
 {{ partial "header.html" . }}
 <section class="section-films">
     <header class="large-header"><h1>Doom Sparkle Films</h1></header>
-{{ range .Data.Pages.ByDate.Reverse.GroupByDate "Jan 2006" }}
+{{ range .Data.Pages.ByDate.Reverse.GroupByDate "2006" }}
 
 <article class="film-section">
     <header><h1>{{ upper .Key }}</h1></header>
     <ul class="film-list">
     {{ range .Pages.ByDate }}
-    <li class="film-entry"><a href="{{ .URL }}" class="film-header"><span class="film-release-date">{{ dateFormat "02" .Date }}</span>:
+    <li class="film-entry"><a href="{{ .URL }}" class="film-header">
+        <!--<span class="film-release-date">{{ dateFormat "Jan" .Date }}</span>:-->
         <span class="film-title">{{ .Title }}</span></a>
         <div class="film-summary">{{ .Summary }}</div>
     </li>
