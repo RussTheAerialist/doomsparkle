@@ -2,13 +2,13 @@
 <section class="section-films">
     <header class="large-header"><h1>Casting Calls</h1></header>
     <!-- Open Casting Calls -->
+    <article class="open-casting"><ul>
     {{ range (where .Data.Pages "Params.castingstatus" "open") }}
-        <article class="open-casting"><h2>Open Castings</h2>
-            <li class="casting-entry"><a href="{{ .URL }}" class="casting-header">
+            <li class="casting-entry"><a href="{{ .Permalink }}" class="casting-header">
                 <span class="casting-title">{{ .Title }}</span></a>
                 <span class="casting-deadline"> audition deadline: {{ dateFormat "02 Jan 2006" .Params.deadline }}</span>
             </li>
-        </article>
     {{ end }}
+    </ul></article>
 </section>
 {{ partial "footer.html" . }}

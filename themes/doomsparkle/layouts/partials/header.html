@@ -24,7 +24,7 @@
     {{ if ne .Params.nonav true }}
     <ul class="mainMenu">
         {{ $currentNode := . }}
-        {{ range .Site.Menus.main }}
+        {{ range (where .Site.Menus.main "Name" "!=" "Casting") }}
             <li class="menu{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} active{{ end }}">
                 <a href="{{ .URL }}">{{ lower .Name }}</a>
             </li>
