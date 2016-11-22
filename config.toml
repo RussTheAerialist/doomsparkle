@@ -6,6 +6,7 @@ SectionPagesMenu = "main"
 Paginate = 1
 PaginatePath = "p"
 googleAnalytics = "UA-514101-29"
+pluralizeListTitles = false
 
 [[menu.main]]
     name = "members"

@@ -1,0 +1,47 @@
+.casting {
+  .page-body {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+
+    label {
+      font-variant: small-caps;
+      font-weight: bold;
+      font-size: 1.25em;
+      color: $menuActiveColor;
+    }
+
+    p {
+      margin-bottom: 2em;
+    }
+
+    h2 {
+      margin-bottom: 0.5em;
+    }
+
+
+    .hero {
+      flex-basis: 100%;
+    }
+
+    .box {
+      flex-basis: 45%;
+      margin-top: 3em;
+    }
+  }
+}
+
+.open-casting {
+  h2 {
+    margin-bottom: 0.5em;
+  }
+
+  .casting-header {
+    font-size: 2em;
+  }
+
+  .casting-deadline {
+    display: block;
+    font-size: 0.85rem;
+  }
+}
