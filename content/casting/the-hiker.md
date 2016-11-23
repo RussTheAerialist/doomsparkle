@@ -16,9 +16,10 @@ for distribution online (Vimeo) in early December.
 
 <h2>Principals:</h2>
 
-<p><label class="segment">Homme Fatale</label>: Wily, Male, 20s-30s, white or multi-racial, any orientation</p>
+<p><label class="segment">Private Eye</label> Female, 20s-40s, any race, any orientation. A tough-talking, lock-picking Seatllite with a tendency for getting into trouble and a mean right hook for getting out of it.</p>
 
-<p><label class="segment">Private Eye</label>: a tough-talking, lock-picking PRIVATE EYE with a mean right hook, female, 20s-40s, any race, any orientation)</p>
+<p><label class="segment">Homme Fatale</label> Male, 20s-30s, white or multi-racial, any orientation. A wily charmer with a chip on his shoulder, always looking out for Number one.</p>
+
 </div>
 
 
@@ -45,7 +46,7 @@ Bellevue and Seattle.</p>
 
 <p>VO by PRIVATE EYE will be recorded at a comfy home with all modern amenities.</p>
 
-<p>Actors will be responsible for costumes (dress like you're going hiking) and be camera ready.</p>
+<p><label class="segment">Costumes/Makeup</label> dress like you're going hiking, possibly in wet snow and be camera ready</p>
 </div>
 
 <div class="box">
