@@ -34,7 +34,7 @@ for distribution online (Vimeo) in early December.
 
 <p><label class="segment">Content Warning</label>: There is brief stylized violence, but no guns/knives.</p>
 
-<p><label class="segment">Compensation</label>: TBD</p>
+<p><label class="segment">Compensation</label>: $100</p>
 
 <p><label class="segment">Filming date</label>: Saturday, 3 December 2016.</p>
 
