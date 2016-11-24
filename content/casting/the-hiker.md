@@ -26,7 +26,7 @@ for distribution online (Vimeo) in early December.
 <div class="box">
 <h2>Audition:</h2>
 
-<p>Contact <a href="">[DOOM SPARKLE_TheHiker]</a> for script and video audition details.</p>
+<p>Contact <a href="mailto:casting@doomsparkle.com">casting@doomsparkle.com</a> for script and video audition details.  Please include "The Hiker" in the subject line.</p>
 </div>
 
 <div class="box">
