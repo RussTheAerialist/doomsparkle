@@ -2,7 +2,7 @@
 date = "2016-11-22T00:00:00-07:00"
 title = "The Hiker"
 type = "casting"
-castingstatus = "open"
+castingstatus = "closed"
 deadline = "2016-12-01T00:00:00-07:00"
 +++
 

@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 <article class="page casting">
-    <header class="large-header"><h1>{{ .Title }}</h1></header>
+    <header class="large-header"><h1>{{ .Title }}{{ if ne .Params.castingstatus "open" }} - FILLED{{ end }}</h1></header>
     <div class="page-body">
         {{ .Content }}
     </div>
