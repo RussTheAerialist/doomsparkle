@@ -6,7 +6,7 @@ deadline = "2017-01-31T00:00:00-07:00"
 +++
 <div class="hero">
 <p>The film collective Doom Sparkle is producing a queer short film about love as told
-through movement for Film Competitions and distribution online.  We will be shooting
+through movement for film competitions and distribution online.  We will be shooting
 in late spring/early summer of 2017.</p>
 
 <p><label class="segment">Synopsis</label>: A love of parkour leads a queer Seattle college student to discover
@@ -44,7 +44,7 @@ A few scenes will be shot in a house on Mercer Island, and one location is TBD.<
 <p><label class="segment">Production Type</label>: Short Film</p>
 <h2>Crew Details:</h2>
 <p class="small"><label class="segment">Director/Writer</label>: <a href="https://russellhay.com/filmcv">Russell Hay</a></p>
-<p><label class="segment">Director of Photography</label>: <!-- a href="http://www.benhartzell.net/">Ben Hartzell</a -->TBD</p>
+<p><label class="segment">Director of Photography</label>: <a href="http://www.benhartzell.net/">Ben Hartzell</a></p>
 <h2>Gear Details:</h2>
 <p class="small">TBD</p>
 </div>
