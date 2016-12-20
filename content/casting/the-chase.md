@@ -16,8 +16,8 @@ that navigating urban obstacles is much like falling in love for the first time.
 
 <div class="box">
 <h2>Principals:</h2>
-<p><label class="segment">Alex</label> Male, Early 20s, any race, messy hair. Hard working, Middle America, "All-American" attitude, some parkour experience</p>
-<p><label class="segment">Jason</label> Male, Early 20s, any race, short hair. Rich kid who still lives with his parents, but down to earth, with extensive parkour experience</p>
+<p><label class="segment">Alex</label> Male, Early 20s, any race. Hard working, Middle America, "All-American" attitude, some parkour experience</p>
+<p><label class="segment">Jason</label> Male, Early 20s, any race. Rich kid who still lives with his parents, but down to earth, with extensive parkour experience</p>
 </div>
 
 <div class="box">
