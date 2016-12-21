@@ -38,7 +38,7 @@ Please include "The Chase" in the subject line.</p>
 <div class="box">
 <h2>Details:</h2>
 <p><label class="segment">Content Warning</label>: This is a queer film. The principals must be okay with showing affection for the same sex. Some scenes require kissing.</p>
-<p><label class="segment">Compensation</label>: Deferred, First $, IMDB Credits</p>
+<p><label class="segment">Compensation</label>: Deferred $100/day, First $, IMDB Credits</p>
 <p><label class="segment">Locations</label>: Most of the film will be shot between Freeway Park and Gasworks Park.
 A few scenes will be shot in a house on Mercer Island, and one location is TBD.</p>
 <p><label class="segment">Costumes/Makeup</label>: More information will be provided. Actors should arrive on set camera ready</p>
