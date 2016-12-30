@@ -19,11 +19,11 @@ that navigating urban obstacles is much like falling in love for the first time.
 <p><label class="segment">Alex</label> [Male, Early 20s, any race] Alex has just moved to Seattle from rural Illinois.
 He spent some time teaching himself parkour in his small town, and is looking to hook up with the local parkour community.
 He knows the basics, and wants to expand his skills.</p>
-<p><label class="segment">Jason</label> [Male, Early 20s, any race] Jason grew up on Mercer Island in a beautiful house
+<!-- FILLED p><label class="segment">Jason</label> [Male, Early 20s, any race] Jason grew up on Mercer Island in a beautiful house
 overlooking the water. He has been training parkour since he was 13, and is heavily involved in the local parkour community.
 He's down to earth, but grew up with a large amount of privilege. He's gay, but hasn't told anyone and has never dated
 anyone.  He's nervous about how his friends will react, until he meets Alex.</p>
-</div>
+</div -->
 
 <div class="box">
 <h2>Audition:</h2>
