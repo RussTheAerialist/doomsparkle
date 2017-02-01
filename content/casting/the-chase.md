@@ -2,7 +2,7 @@
 date = "2016-12-20T00:00:00-07:00"
 title = "The Chase"
 castingstatus = "open"
-deadline = "2017-01-31T00:00:00-07:00"
+deadline = "2017-04-30T00:00:00-07:00"
 +++
 <div class="hero">
 <p>The film collective Doom Sparkle is producing a queer short film about love as told
