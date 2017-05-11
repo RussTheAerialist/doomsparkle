@@ -13,7 +13,7 @@ startYear = 2016
 name = "Elizabeth Lain"
 link = "http://elizabethlain.com/"
 twitter = "LizardEatsFlies"
-type = "composer, sound alchemist, sparkle mermaid"
+type = "composer, sound alchemist, urban mermaid"
 startYear = 2016
 
 [[member]]
