@@ -2,7 +2,7 @@
 date = "2016-12-20T00:00:00-07:00"
 title = "The Chase"
 castingstatus = "open"
-deadline = "2017-04-30T00:00:00-07:00"
+deadline = "2017-06-30T00:00:00-07:00"
 +++
 <div class="hero">
 <p>The film collective Doom Sparkle is producing a queer short film about love as told
@@ -16,9 +16,9 @@ that navigating urban obstacles is much like falling in love for the first time.
 
 <div class="box">
 <h2>Principals:</h2>
-<p><label class="segment">Alex</label> [Male, Early 20s, any race] Alex has just moved to Seattle from rural Illinois.
+<!-- p><label class="segment">Alex</label> [Male, Early 20s, any race] Alex has just moved to Seattle from rural Illinois.
 He spent some time teaching himself parkour in his small town, and is looking to hook up with the local parkour community.
-He knows the basics, and wants to expand his skills.</p>
+He knows the basics, and wants to expand his skills.</p -->
 <p><label class="segment">Jason</label> [Male, Early 20s, any race] Jason grew up on Mercer Island in a beautiful house
 overlooking the water. He has been training parkour since he was 13, and is heavily involved in the local parkour community.
 He's down to earth, but grew up with a large amount of privilege. He's gay, but hasn't told anyone and has never dated
@@ -32,7 +32,7 @@ Please include "The Chase" in the subject line.</p>
 <h2>Call backs:</h2>
 <p>Call back date/time TBD</p>
 <h2>Shooting dates:</h2>
-<p>May 18-21, 2017.  Targeting late spring, early summer weather, expect to shoot in 3 days.</p>
+<p>Aug 6th-12th, 2017.  Targeting late spring, early summer weather, expect to shoot in 3 days.</p>
 </div>
 
 <div class="box">
