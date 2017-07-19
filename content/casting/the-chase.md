@@ -1,7 +1,7 @@
 +++
 date = "2016-12-20T00:00:00-07:00"
 title = "The Chase"
-castingstatus = "open"
+castingstatus = "closed"
 deadline = "2017-06-30T00:00:00-07:00"
 +++
 <div class="hero">
