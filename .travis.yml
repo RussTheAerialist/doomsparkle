@@ -15,6 +15,7 @@ notifications:
 before_install:
 - openssl aes-256-cbc -K $encrypted_62d72ab54bb9_key -iv $encrypted_62d72ab54bb9_iv
   -in doomsparkle-deploy.enc -out doomsparkle-deploy -d
+- rvm install 2.3.0
 - gem install sass
 before_deploy:
 - eval "$(ssh-agent -s)"
